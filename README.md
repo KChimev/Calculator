@@ -5,3 +5,4 @@ This is open-source code.
 Recreated from u/WebDevSimplified`s JavaScript calculator project.
 
 ![Finished version image](https://github.com/KChimev/Calculator/blob/main/finished/calc1.jpg?raw=true)
+![Finished version image](https://github.com/KChimev/Calculator/blob/main/finished/calc2.jpg?raw=true)
